@@ -1,0 +1,14 @@
+{
+  "name": "nfc_module",
+  "version": "1.0.2",
+  "description": "Tag NFC React native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native": "^0.68.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
